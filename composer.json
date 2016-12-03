@@ -2,7 +2,7 @@
     "name": "shubaduwa/hello",
     "description": "My first composer project",
     "type": "library",
-    "license": "mit",
+    "license": "1.0.0",
     "authors": [
         {
             "name": "shubaduwa",
