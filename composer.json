@@ -2,15 +2,14 @@
     "name": "shubaduwa/hello",
     "description": "My first composer project",
     "type": "library",
-    "license": "MIT",
+    "license": "mit",
     "authors": [
         {
             "name": "shubaduwa",
             "email": "shubaduwa@gmail.com"
         }
     ],
-	  
-   
+    "minimum-stability": "dev",
     "require": {  
 				 "php": ">=5.3.0"
 				},
@@ -18,7 +17,5 @@
         "psr-0": {
             "HelloWorld": "src/"
         }
-    },
-	
-
+    }
 }
