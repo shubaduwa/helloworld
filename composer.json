@@ -2,14 +2,15 @@
     "name": "shubaduwa/hello",
     "description": "My first composer project",
     "type": "library",
-    "license": "1.0.0",
+    "license": "MIT",
+"version":"1.0.0",
     "authors": [
         {
             "name": "shubaduwa",
             "email": "shubaduwa@gmail.com"
         }
     ],
-	   "minimum-stability": "alpha",
+	   "minimum-stability": "dev",
    
     "require": {  
 				 "php": ">=5.3.0"
